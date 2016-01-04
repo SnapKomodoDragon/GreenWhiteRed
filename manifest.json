@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Red White Green",
+  "description": "Red White Green Learning Helper",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "rwg.png",
+    "default_popup": "rwg.html"
+  },
+  "permissions": [
+    "https://ajax.googleapis.com/"
+  ]
+}
