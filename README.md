@@ -19,3 +19,4 @@ If done this way, there will be no action required from the students in order to
 * Periodically ask the student how they're going in order to remind them to set their state.
 * History of a student state for a teacher to be able to view.
 * Android/iOS apps? Not sure how useful these would be.
+* Pull class lists and photos directly from Google Classroom or other systems
