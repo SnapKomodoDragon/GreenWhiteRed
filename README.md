@@ -21,3 +21,4 @@ If done this way, there will be no action required from the students in order to
 * Android/iOS apps? Not sure how useful these would be.
 * Pull class lists and photos directly from Google Classroom or other systems
 * Pull class lists with Google Groups integration
+* Direct teacher input for class lists
