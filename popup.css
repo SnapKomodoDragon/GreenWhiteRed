@@ -1,0 +1,32 @@
+body {
+    font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+    font-size: 100%;
+    width: 150px;
+    margin: 0 0.5em;
+}
+.choice_group {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    padding: 0;
+    margin: 1em 0;
+}
+.choice {
+    height: 50px;
+    width: 50px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+    vertical-align: middle;
+    float: left;
+}
+.choice_label {
+    display: inline-block;
+    float: right;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0.1em;
+    margin: 0;
+}
